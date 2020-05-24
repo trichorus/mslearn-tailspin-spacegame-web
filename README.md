@@ -1,4 +1,6 @@
 
+[![Build Status](https://testsolutions.visualstudio.com/mslearn-tailspin-spacegame-web/_apis/build/status/trichorus.mslearn-tailspin-spacegame-web?branchName=master)](https://testsolutions.visualstudio.com/mslearn-tailspin-spacegame-web/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
